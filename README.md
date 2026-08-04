@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center"> <img src="https://raw.githubusercontent.com/Ha1mad/Ha1mad/main/assets/Hello.gif" alt="Coding" width="45%" align="center" />
+  
+# Hey, I'm Hamad.
+*A Mobile & Web Developer from Saudi Arabia*
+<br/>
+*turning ideas into apps, one commit at a time.*
+</div>
 
-<!--
-**Ha1mad/Ha1mad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,androidstudio,git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+<div align="center">
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+[![HabitStreak](https://github-readme-stats.vercel.app/api/pin/?username=Ha1mad&repo=HabitStreak&theme=tokyonight&hide_border=true)](https://github.com/Ha1mad/HabitStreak)
+[![Display-Errors-logs](https://github-readme-stats.vercel.app/api/pin/?username=Ha1mad&repo=Display-Errors-logs&theme=tokyonight&hide_border=true)](https://github.com/Ha1mad/Display-Errors-logs)
+
+
+</div>
+
+---
+
+<div align="center">
+
+> *"First, master the basics. Then break the rules."*
+
+</div>
